@@ -1,0 +1,4 @@
+pageobjects\AcceptCookiesPage.class
+Initialization\Initialization.class
+pageobjects\GoogleResultPage.class
+pageobjects\GoogleSearchPage.class
